@@ -33,6 +33,7 @@
     "no-undef": "warn",
     "indent": ["error", 2],
     "react/jsx-filename-extension": [0, { "extensions": [".js", ".jsx"] }],
-    "consistent-return": 1
+    "consistent-return": 1,
+    "no-trailing-spaces": "off"
   }
 }
